@@ -1,2 +1,2 @@
-# Frontend-Mentor-Challenge-8
-Landing page using HTML and CSS. Flexbox display. 
+# A challenge from Frontend-Mentor
+Basic landing page. All code by Mason C.  
